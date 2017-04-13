@@ -1,0 +1,27 @@
+.winner{
+    color: green;
+}
+
+div{
+    text-align: center;
+}
+
+#inputNumber{
+    margin-bottom: 10px;
+}
+
+#resetLine{
+    margin-top: 10px;
+}
+
+#reset{
+    width: 197px;
+    margin-bottom: 10px;
+}
+
+#myWrapper{
+    display: inline-block;
+    background-color: #C8C8C8;
+    width: 230px;
+    border-radius: 5px;
+}
